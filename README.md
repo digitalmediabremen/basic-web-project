@@ -14,13 +14,16 @@ assets/
     favicon.png
     ...
   js
-  	script.js
+    script.js
 index.html
 README.md
 ```
 
 ## Documentation
 
-HTML [EN](https://developer.mozilla.org/en-US/docs/Web/HTML)/[DE](https://developer.mozilla.org/de/docs/Web/HTML)
+look up your HTML and CSS at Mozilla. They know the web pretty well.
 
-CSS [EN](https://developer.mozilla.org/en-US/docs/Web/CSS)/[DE](https://developer.mozilla.org/de/docs/Web/CSS)
+- [ ] HTML [EN](https://developer.mozilla.org/en-US/docs/Web/HTML)/[DE](https://developer.mozilla.org/de/docs/Web/HTML)
+- [ ] CSS [EN](https://developer.mozilla.org/en-US/docs/Web/CSS)/[DE](https://developer.mozilla.org/de/docs/Web/CSS)
+
+HTML5 and all that new jazz available in your ol' browser? Check with [caniuse.com](https://caniuse.com/)
